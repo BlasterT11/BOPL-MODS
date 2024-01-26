@@ -10,3 +10,5 @@ Step Four: Press the install Bepinex button. Bepinex is a commonly used modding 
 Step Five: Click on the mods you want to get. Then press install mods.
 Step Six: If you want to remove a mod, you will have to go into the plugins folder of your Bopl Battle game and delete the plugins.
 Step Seven: Enjoy!
+
+For a visual representation, see this video (not mine): [https://www.youtube.com/watch?v=XUvOE0gyxJ4](url)
