@@ -1,0 +1,1 @@
+Hide abilities for local players: 0
