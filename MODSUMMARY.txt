@@ -1,0 +1,10 @@
+Ability Storm - Makes abilities fall from the sky at 1 per second.
+Hidden Abilities - Abilities show as question marks, and might not show at all in some cases.
+Infinite Platform Ability - Self-explanatory. Allows the platform ability to infinetly size.
+Mod Names - Shows the names of all mods in your plugins folder and who created them.
+No Sudden Death - Self-explanatory. Stalls sudden death forever. Glitches may appear the later you go.
+Reverse Gust - Makes gust pull things in instead of push things out.
+Speedy Players - Self-explanatory. Players are faster (even when jumping)
+Arrow circle/wall - When you shoot a bow, the arrows go either in a wall or a circle around you.
+Dummies - Press E to spawn a dummy at your cursor.
+No Size Caps - Self-explanatory. Growing or shrinking things has no limit.
